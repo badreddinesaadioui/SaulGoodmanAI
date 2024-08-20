@@ -1,7 +1,7 @@
 import streamlit as st
 from openai import OpenAI
 import base64
-
+base="light"
 st.set_page_config(page_title="Saul Goodman Chatbot",
                    page_icon="⚖️", layout="centered")
 
